@@ -4,6 +4,7 @@ html {
   line-height: 1.5;
   color: #222;
   font-size: 0.8rem;
+  font-weight: normal;
 }
 
 h1 {
@@ -15,7 +16,7 @@ nav a {
   font-size: 1.125rem;
 }
 
-nav a:link {
+nav a {
   color: #8f2440;
 }
 
@@ -38,6 +39,11 @@ h2 {
   font-size: 1.5rem;
 }
 
+#common-varieties {
+  list-style-type: lower-greek;
+}
+
 small > a:link {
   color: #8f2440;
+  text-decoration: underline;
 }
