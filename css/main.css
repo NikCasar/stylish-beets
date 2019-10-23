@@ -3,7 +3,7 @@ html {
   font-family: 'PT Sans', sans-serif;
   line-height: 1.5;
   color: #222;
-  font-size: 0.8rem;
+  font-size: 1.5rem;
   font-weight: normal;
 }
 
@@ -46,4 +46,5 @@ h2 {
 small > a:link {
   color: #8f2440;
   text-decoration: underline;
+  font-size: 0.8rem;
 }
